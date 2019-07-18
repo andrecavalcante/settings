@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/GitHub_Light.tmTheme",
+	"font_options":
+	[
+		"bold"
+	],
+	"font_size": 17,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"scroll_speed": 5.0,
+	"show_errors_inline": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"word_wrap": true
+}
